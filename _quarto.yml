@@ -1,6 +1,6 @@
 project:
   type: website
-  outpute-dir: docs
+  output-dir: docs
 
 website:
   title: "Website"
