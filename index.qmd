@@ -1,7 +1,31 @@
 ---
-title: "Website"
+title: "Powell R. Sheagren"
 ---
 
-This is a Quarto website.
+:::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="60%"}
+
+Hello and welcome to my website. I am currently a first year Masters student in the Graduate School of Arts and Sciences at Georgetown University, studying data science and analytics. I was formerly a undergraduate at Swarthmore college studying political science and statistics.
+
+I'm pursuing a career in the intersection of advanced data analytics and politics, bringing technical abilities to policy and progress. Outside of that career, I'm a avid knitter, reader, and movie buff. I'm a fairly advanced skier and certified karate instructor under Tang Soo Do (A korean martial art).
+
+:::
+
+::: {.column width="5%"}
+     
+:::
+
+::: {.column width="35%" fontsize="8"}
+
+![Masters Student - Data Science and Analytics](Powell_Sheagren_Headshot.JPG) 
+
+{{< fa brands github >}}  [Github](https://github.com/powellres)
+
+{{< fa solid envelope >}} [Powell.Sheagren@gmail.com](mailto:Powell.sheagren@gmail.com)
+
+{{< fa brands linkedin >}} [Linkedin](https://www.linkedin.com/in/powell-reed-sheagren/)
+:::
+
+::::
+

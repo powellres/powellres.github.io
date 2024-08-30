@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Website"
+  title: "Powell Sheagren"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - wild.qmd
-      - try_me.ipynb
+      - href: aboutme.qmd
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: Files/Resume.pdf
+        text: Resume
 
 format:
   html:
