@@ -3,3 +3,49 @@ title: "This page is currently in Development"
 ---
 
 This Page is currently in Development
+
+### Projects 
+
+#### Election Night Dashboard
+[Link to Deliverable](https://bluebonnetdata-powell.shinyapps.io/Mecklenburg_Forecasting/) | [Github]() | November 2024
+
+#### Returning Student Scholarship 
+[Link to Deliverable](https://powellres.github.io/Powell-Returning-Student-Scholarship/) | [Github](https://github.com/powellres/Powell-Returning-Student-Scholarship) | June 2024
+Summary: 
+
+#### DSAN 6600 Final Project
+[Link to Deliverable]() | [Github]() | May 2024
+
+#### DSAN 5200 Final Project
+[Link to Deliverable]() | [Github]() | May 2024
+
+#### DSAN 5100 Final Project
+[Link to Deliverable]() | [Github]() | December 2023
+
+#### DSAN 5000 Final 
+[Link to Deliverable]() | [Github]() | December 2023
+
+#### Political Science Comprehensive
+[Link to Deliverable]() | [Github]() | Date
+
+### Papers
+
+#### Principal Components of Happiness
+
+### Articles
+
+#### Hapinnes in mexico stuff
+
+#### The Swarthmore Phoenix 
+https://swarthmorephoenix.com/author/powell_sheagren/
+
+#### Legacy Dilemma
+Interviewed by the New York Times
+https://www.nytimes.com/2023/07/30/us/politics/legacy-admissions-college-alumni.html
+https://www.sanjuandailystar.com/post/the-legacy-dilemma-what-to-do-about-privileges-for-the-privileged 
+
+#### Districtr
+https://districtr.org/maine
+
+#### Five Global Health Priorities for the future President
+https://www.the-american-interest.com/2020/07/20/five-global-health-priorities-for-the-next-president/
