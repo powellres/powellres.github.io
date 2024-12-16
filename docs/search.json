@@ -2,9 +2,16 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "This page is currently in Development",
+    "title": "Portfolio",
     "section": "",
-    "text": "This Page is currently in Development\n\nProjects\n\nElection Night Dashboard\nLink to Deliverable | Github | November 2024\n\n\nReturning Student Scholarship\nLink to Deliverable | Github | June 2024 Summary:\n\n\nDSAN 6600 Final Project\nLink to Deliverable | Github | May 2024\n\n\nDSAN 5200 Final Project\nLink to Deliverable | Github | May 2024\n\n\nDSAN 5100 Final Project\nLink to Deliverable | Github | December 2023\n\n\nDSAN 5000 Final\nLink to Deliverable | Github | December 2023\n\n\nPolitical Science Comprehensive\nLink to Deliverable | Github | Date\n\n\n\nPapers\n\nPrincipal Components of Happiness\n\n\n\nArticles\n\nHapinnes in mexico stuff\n\n\nThe Swarthmore Phoenix\nhttps://swarthmorephoenix.com/author/powell_sheagren/\n\n\nLegacy Dilemma\nInterviewed by the New York Times https://www.nytimes.com/2023/07/30/us/politics/legacy-admissions-college-alumni.html https://www.sanjuandailystar.com/post/the-legacy-dilemma-what-to-do-about-privileges-for-the-privileged\n\n\nDistrictr\nhttps://districtr.org/maine\n\n\nFive Global Health Priorities for the future President\nhttps://www.the-american-interest.com/2020/07/20/five-global-health-priorities-for-the-next-president/"
+    "text": "This Page is dedicated to the various class projects, public projects done for employers, and personal projects."
+  },
+  {
+    "objectID": "portfolio.html#section",
+    "href": "portfolio.html#section",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Election Night Dashboard\nLink to Deliverable | Github | November 2024\nSummary: A Dashboard made in R for the Mecklenburg County Democrats in Charlotte, NC. We were working with them in 2024 during the election and they wanted a way to review their results and compare them to the 2020 and 2022 election seasons. The Dashboard was made in R using Shiny and Plotly to make the interactive graphs.\n\n\nReturning Student Scholarship\nLink to Deliverable | Github | June 2024\nSummary: When entering the second year of my two year program they gave the students a chance to compete for a merit-based scholarship through projects we make and our contributions to the program. We submitted a project based on soil water retention data from a study on Natural Bridges National Park. I submitted my project and won the second highest prize for my work.\n\n\nNueral Networks (DSAN 6600) Final Project\nLink to Deliverable | Github | May 2024\n\n\nAnalytics for Statistical Learning (DSAN 5300) Final Project\nLink to Deliverable | Github | May 2024\n\n\nIntro to Statistics (DSAN 5100) Final Project\nLink to Deliverable | Github | December 2023\n\n\nDSAN 5000 Final\nLink to Deliverable | Github | December 2023\n\n\nPolitical Science Comprehensive\nLink to Deliverable | Github | Date\n\n\nPapers\n\nPrincipal Components of Happiness\n\n\n\nArticles\n\nHapinnes in mexico stuff\n\n\nThe Swarthmore Phoenix\nhttps://swarthmorephoenix.com/author/powell_sheagren/\n\n\nLegacy Dilemma\nInterviewed by the New York Times https://www.nytimes.com/2023/07/30/us/politics/legacy-admissions-college-alumni.html https://www.sanjuandailystar.com/post/the-legacy-dilemma-what-to-do-about-privileges-for-the-privileged\n\n\nDistrictr\nhttps://districtr.org/maine\n\n\nFive Global Health Priorities for the future President\nhttps://www.the-american-interest.com/2020/07/20/five-global-health-priorities-for-the-next-president/"
   },
   {
     "objectID": "index.html",
