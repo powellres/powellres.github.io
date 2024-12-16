@@ -1,25 +1,33 @@
 ---
-title: "This page is currently in Development"
+title: "Portfolio"
 ---
 
-This Page is currently in Development
+This Page is dedicated to the various class projects, public projects done for employers, and personal projects.
 
 ### Projects 
 
+#### Big Data (DSAN 6000) Final Project
+[Link to Deliverable]() | [Github]() | December 2024
+
+##
+
 #### Election Night Dashboard
-[Link to Deliverable](https://bluebonnetdata-powell.shinyapps.io/Mecklenburg_Forecasting/) | [Github]() | November 2024
+[Link to Deliverable](https://bluebonnetdata-powell.shinyapps.io/Mecklenburg_Forecasting/) | [Github](https://github.com/powellres/Mecklenburg_County_Election_Night_Dashboard) | November 2024
+
+Summary: A Dashboard made in R for the Mecklenburg County Democrats in Charlotte, NC. We were working with them in 2024 during the election and they wanted a way to review their results and compare them to the 2020 and 2022 election seasons. The Dashboard was made in R using Shiny and Plotly to make the interactive graphs.
 
 #### Returning Student Scholarship 
 [Link to Deliverable](https://powellres.github.io/Powell-Returning-Student-Scholarship/) | [Github](https://github.com/powellres/Powell-Returning-Student-Scholarship) | June 2024
-Summary: 
 
-#### DSAN 6600 Final Project
+Summary: When entering the second year of my two year program they gave the students a chance to compete for a merit-based scholarship through projects we make and our contributions to the program. We submitted a project based on soil water retention data from a study on Natural Bridges National Park. I submitted my project and won the second highest prize for my work.
+
+#### Nueral Networks (DSAN 6600) Final Project
 [Link to Deliverable]() | [Github]() | May 2024
 
-#### DSAN 5200 Final Project
+#### Analytics for Statistical Learning (DSAN 5300) Final Project
 [Link to Deliverable]() | [Github]() | May 2024
 
-#### DSAN 5100 Final Project
+#### Intro to Statistics (DSAN 5100) Final Project
 [Link to Deliverable]() | [Github]() | December 2023
 
 #### DSAN 5000 Final 
