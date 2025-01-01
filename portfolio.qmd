@@ -7,9 +7,14 @@ This Page is dedicated to the various class projects, public projects done for e
 ### Projects 
 
 #### Big Data (DSAN 6000) Final Project
-[Link to Deliverable]() | [Github]() | December 2024
+[Link to Deliverable](https://gu-dsan6000.github.io/fall-2024-project-team-29/) | [Github](https://github.com/gu-dsan6000/fall-2024-project-team-29) | December 2024
 
-##
+Summary: We created a website that had exploratory data analysis, natural language processing, and machine learning aspects all applied to a 100 GB dataset of reddit data. For this project I specifically found a subset of the data where US States were mentioned, created visualizations of this dataset, found the sentiment associated with each state, and created a machine learning model to predict the score of the post based on all the variables.
+
+#### Natural Language Processing (DSAN 5800) Final Project
+[Link to Deliverable](https://docs.google.com/presentation/d/1GzWrOpMp3qInxHbbkDERY1NzALd6HCGF4lNTFvmB8g8/edit?usp=sharing) | [Github](https://github.com/msheeba4848/Framework-Insight-Retrieval-and-Summarization-) | December 2024
+
+Summary: For this project we created a presentation and report (which is in the github) on the use of various retrieval augmented generation (RAG) methods which had the goal of finding cases relevant to a search. Large Language models normally have a problem with hallucinating results and RAG is a method to sidestep that issue.
 
 #### Election Night Dashboard
 [Link to Deliverable](https://bluebonnetdata-powell.shinyapps.io/Mecklenburg_Forecasting/) | [Github](https://github.com/powellres/Mecklenburg_County_Election_Night_Dashboard) | November 2024
@@ -39,21 +44,19 @@ Summary: When entering the second year of my two year program they gave the stud
 ### Papers
 
 #### Principal Components of Happiness
+[Link to the paper](https://www.sciencedirect.com/science/article/pii/S1757780224003755)
+
+Summary: In this article oublished in Regional Science Policy and Practice we disscus a novel use of Principal Componenet Analysis to index wellbeing in Mexico in a method that contrasted the leading economic measures. This was a project started in a workshop in 2020 through the CIMAT summer system and involved a presentation in the 61st annual conference of the Western Regional Science Association.
 
 ### Articles
 
-#### Hapinnes in mexico stuff
-
 #### The Swarthmore Phoenix 
-https://swarthmorephoenix.com/author/powell_sheagren/
+[This links to all of the articles](https://swarthmorephoenix.com/author/powell_sheagren/) I wrote for the Swarthmore Phoenix while I was a staff writiter there. I wrote for the Campus Journal, Opinions, and Arts section. The wriritng didn't overlap as much with my academic interests but I was happy to contribute to the periodical periodically.
 
 #### Legacy Dilemma
-Interviewed by the New York Times
-https://www.nytimes.com/2023/07/30/us/politics/legacy-admissions-college-alumni.html
-https://www.sanjuandailystar.com/post/the-legacy-dilemma-what-to-do-about-privileges-for-the-privileged 
+Interviewed by the New York Times for an article on [Legacy in the context of the end of Affirmative Action](https://www.nytimes.com/2023/07/30/us/politics/legacy-admissions-college-alumni.html).
 
-#### Districtr
-https://districtr.org/maine
+
 
 #### Five Global Health Priorities for the future President
-https://www.the-american-interest.com/2020/07/20/five-global-health-priorities-for-the-next-president/
+While Interning for the Friends of the Global Fight I helped write [this article](https://www.the-american-interest.com/2020/07/20/five-global-health-priorities-for-the-next-president/) published by Ambassador Mark Lagon in the American Interest
