@@ -29,14 +29,25 @@ Summary: When entering the second year of my two year program they gave the stud
 #### Nueral Networks (DSAN 6600) Final Project
 [Link to Deliverable]() | [Github]() | May 2024
 
+Summary: For this group project we took a dataset of item from Amazon (found on Kaggle) which had price and an image of the product. We fit a convolutional neural network to the images in order to predict the price of the product itself. In this process we transformed and permutated the original images to better train the model. We were midly successful with interesting results that the model tended to look at logos or other branding for information about price.
+
 #### Analytics for Statistical Learning (DSAN 5300) Final Project
-[Link to Deliverable]() | [Github]() | May 2024
+[Link to Deliverable](https://docs.google.com/presentation/d/1mPTNj81_li8VuwGgmnVuQ4IFktSMeM-T/edit#slide=id.p1) | [Github](https://github.com/IrnT/5300FinalProject) | May 2024
+
+Summary: On this group project
+
+#### Data Visualization (DSAN 5200) Final Project
+[Link to Deliverable]() | [Github](https://github.com/gu-dsan5200/spring-2024-dsan-5200-project-repo-project-group-13-1) | May 2024
+
+
 
 #### Intro to Statistics (DSAN 5100) Final Project
-[Link to Deliverable]() | [Github]() | December 2023
+[Link to Deliverable](https://powellres.github.io/DSAN5100-Final-Project-Powell/report/report.html) | [Github](https://github.com/powellres/DSAN5100-Final-Project-Powell) | December 2023
 
 #### DSAN 5000 Final 
-[Link to Deliverable]() | [Github]() | December 2023
+[Link to Deliverable](https://powellres.github.io/DSAN5000-final-project-Powell/) | [Github](https://github.com/powellres/DSAN5000-final-project-Powell) | December 2023
+
+Summary: For this project, we were asked to pick a dataset and apply a variety of machine learning methods. I chose a public knitting database on which I cleaned the data;performed exploratory data analysis; used analysis techniques like Naive Bayes Predictive modeling, Clustering, Dimensionality Reduction, and Decision trees/Random forests; and concluded the results all while documenting my code.
 
 #### Political Science Comprehensive
 [Link to Deliverable]() | [Github]() | Date
