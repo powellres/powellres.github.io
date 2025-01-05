@@ -4,6 +4,13 @@ title: "Portfolio"
 
 This Page is dedicated to the various class projects, public projects done for employers, and personal projects.
 
+### Papers
+
+#### Principal Components of Happiness
+[Link to the paper](https://www.sciencedirect.com/science/article/pii/S1757780224003755)
+
+Summary: In this article oublished in Regional Science Policy and Practice we disscus a novel use of Principal Componenet Analysis to index wellbeing in Mexico in a method that contrasted the leading economic measures. This was a project started in a workshop in 2020 through the CIMAT summer system and involved a presentation in the 61st annual conference of the Western Regional Science Association.
+
 ### Projects 
 
 #### Big Data (DSAN 6000) Final Project
@@ -18,6 +25,8 @@ Summary: For this project we created a presentation and report (which is in the 
 
 #### Election Night Dashboard
 [Link to Deliverable](https://bluebonnetdata-powell.shinyapps.io/Mecklenburg_Forecasting/) | [Github](https://github.com/powellres/Mecklenburg_County_Election_Night_Dashboard) | November 2024
+
+![Photo showing an instance of the dashboard](Files/Photos/Mecklenburg%20Dashboard.png)
 
 Summary: A Dashboard made in R for the Mecklenburg County Democrats in Charlotte, NC. We were working with them in 2024 during the election and they wanted a way to review their results and compare them to the 2020 and 2022 election seasons. The Dashboard was made in R using Shiny and Plotly to make the interactive graphs.
 
@@ -34,30 +43,24 @@ Summary: For this group project we took a dataset of item from Amazon (found on 
 #### Analytics for Statistical Learning (DSAN 5300) Final Project
 [Link to Deliverable](https://docs.google.com/presentation/d/1mPTNj81_li8VuwGgmnVuQ4IFktSMeM-T/edit#slide=id.p1) | [Github](https://github.com/IrnT/5300FinalProject) | May 2024
 
-Summary: On this group project
+![Poster showing the results of the project](Files/Photos/5300%20Research%20Poster.pptx.jpg)
+
+Summary: On this group project we applied out knowledge of various advance statistical methods including Artificial Neural Networks to analyze power use across estonia. In particular, I structured and ran the artificial neural networks for a regression and classification question and completed some of the initial data cleaning for the project.
 
 #### Data Visualization (DSAN 5200) Final Project
 [Link to Deliverable]() | [Github](https://github.com/gu-dsan5200/spring-2024-dsan-5200-project-repo-project-group-13-1) | May 2024
 
-
+Summary: Using crime statistics from 2018-2022, we visualized very aspects of the incidents reported as if they were featured in a clue game, as in if a crime happened to you in DC what was your relation to the perpetrator, where did it happen, and what weapon was used. Otherwise we used interactive and linked visualizations using packages like ggplot, plotly, and D3.
 
 #### Intro to Statistics (DSAN 5100) Final Project
 [Link to Deliverable](https://powellres.github.io/DSAN5100-Final-Project-Powell/report/report.html) | [Github](https://github.com/powellres/DSAN5100-Final-Project-Powell) | December 2023
+
+Summary: For this final project I worked alone to analyze a dataset of nobel prize winners for differences in gender over time and across the different categories. The analysis for this project was more baseline and mostly involved proving statistical independence and differences to support the thesis of my research.
 
 #### DSAN 5000 Final 
 [Link to Deliverable](https://powellres.github.io/DSAN5000-final-project-Powell/) | [Github](https://github.com/powellres/DSAN5000-final-project-Powell) | December 2023
 
 Summary: For this project, we were asked to pick a dataset and apply a variety of machine learning methods. I chose a public knitting database on which I cleaned the data;performed exploratory data analysis; used analysis techniques like Naive Bayes Predictive modeling, Clustering, Dimensionality Reduction, and Decision trees/Random forests; and concluded the results all while documenting my code.
-
-#### Political Science Comprehensive
-[Link to Deliverable]() | [Github]() | Date
-
-### Papers
-
-#### Principal Components of Happiness
-[Link to the paper](https://www.sciencedirect.com/science/article/pii/S1757780224003755)
-
-Summary: In this article oublished in Regional Science Policy and Practice we disscus a novel use of Principal Componenet Analysis to index wellbeing in Mexico in a method that contrasted the leading economic measures. This was a project started in a workshop in 2020 through the CIMAT summer system and involved a presentation in the 61st annual conference of the Western Regional Science Association.
 
 ### Articles
 
