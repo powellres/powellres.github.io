@@ -9,6 +9,8 @@ This Page is dedicated to the various class projects, public projects done for e
 #### Principal Components of Happiness
 [Link to the paper](https://www.sciencedirect.com/science/article/pii/S1757780224003755)
 
+Skills: R, Principal Component Analysis, and Data Wrangling
+
 Summary: In this article oublished in Regional Science Policy and Practice we disscus a novel use of Principal Componenet Analysis to index wellbeing in Mexico in a method that contrasted the leading economic measures. This was a project started in a workshop in 2020 through the CIMAT summer system and involved a presentation in the 61st annual conference of the Western Regional Science Association.
 
 ### Projects 
@@ -16,10 +18,14 @@ Summary: In this article oublished in Regional Science Policy and Practice we di
 #### Big Data (DSAN 6000) Final Project
 [Link to Deliverable](https://gu-dsan6000.github.io/fall-2024-project-team-29/) | [Github](https://github.com/gu-dsan6000/fall-2024-project-team-29) | December 2024
 
+Skills: Python, SQL, Spark, SparkSQL, SparkNLP, Spark ML, AWS, Azure, Data Cleaning, Data Wrangling, and Data Visualization
+
 Summary: We created a website that had exploratory data analysis, natural language processing, and machine learning aspects all applied to a 100 GB dataset of reddit data. For this project I specifically found a subset of the data where US States were mentioned, created visualizations of this dataset, found the sentiment associated with each state, and created a machine learning model to predict the score of the post based on all the variables.
 
 #### Natural Language Processing (DSAN 5800) Final Project
 [Link to Deliverable](https://docs.google.com/presentation/d/1GzWrOpMp3qInxHbbkDERY1NzALd6HCGF4lNTFvmB8g8/edit?usp=sharing) | [Github](https://github.com/msheeba4848/Framework-Insight-Retrieval-and-Summarization-) | December 2024
+
+Skills: Python, Huggingface, and Data Wrangling
 
 Summary: For this project we created a presentation and report (which is in the github) on the use of various retrieval augmented generation (RAG) methods which had the goal of finding cases relevant to a search. Large Language models normally have a problem with hallucinating results and RAG is a method to sidestep that issue.
 
@@ -28,15 +34,21 @@ Summary: For this project we created a presentation and report (which is in the 
 
 ![Photo showing an instance of the dashboard](Files/Photos/Mecklenburg%20Dashboard.png)
 
+Skills: R, Shiny dasboards, Data wrangling and cleaning, API querying, Data Visualization, ggplot2, and Plotly
+
 Summary: A Dashboard made in R for the Mecklenburg County Democrats in Charlotte, NC. We were working with them in 2024 during the election and they wanted a way to review their results and compare them to the 2020 and 2022 election seasons. The Dashboard was made in R using Shiny and Plotly to make the interactive graphs.
 
 #### Returning Student Scholarship 
 [Link to Deliverable](https://powellres.github.io/Powell-Returning-Student-Scholarship/) | [Github](https://github.com/powellres/Powell-Returning-Student-Scholarship) | June 2024
 
+Skills: R, ggplot2 and Plotly, Data Visualization, Data Cleaning, Clustering, Tableau, and Regression
+
 Summary: When entering the second year of my two year program they gave the students a chance to compete for a merit-based scholarship through projects we make and our contributions to the program. We submitted a project based on soil water retention data from a study on Natural Bridges National Park. I submitted my project and won the second highest prize for my work.
 
 #### Nueral Networks (DSAN 6600) Final Project
 [Link to Deliverable]() | [Github]() | May 2024
+
+Skills: Python, Tensorflow, Pytorch, Convolutional and Artifical Nerual Networks, Pandas, and Data Wrangling
 
 Summary: For this group project we took a dataset of item from Amazon (found on Kaggle) which had price and an image of the product. We fit a convolutional neural network to the images in order to predict the price of the product itself. In this process we transformed and permutated the original images to better train the model. We were midly successful with interesting results that the model tended to look at logos or other branding for information about price.
 
@@ -45,20 +57,28 @@ Summary: For this group project we took a dataset of item from Amazon (found on 
 
 ![Poster showing the results of the project](Files/Photos/5300%20Research%20Poster.pptx.jpg)
 
+Skills: R, Python, Artificial Neural Netowrks, Linear Regression, Geospatial mapping, Data Wrangling, and Data Visualization
+
 Summary: On this group project we applied out knowledge of various advance statistical methods including Artificial Neural Networks to analyze power use across estonia. In particular, I structured and ran the artificial neural networks for a regression and classification question and completed some of the initial data cleaning for the project.
 
 #### Data Visualization (DSAN 5200) Final Project
 [Link to Deliverable]() | [Github](https://github.com/gu-dsan5200/spring-2024-dsan-5200-project-repo-project-group-13-1) | May 2024
+
+Skills: Python, R, Data Visualization, Data Cleaning, D3
 
 Summary: Using crime statistics from 2018-2022, we visualized very aspects of the incidents reported as if they were featured in a clue game, as in if a crime happened to you in DC what was your relation to the perpetrator, where did it happen, and what weapon was used. Otherwise we used interactive and linked visualizations using packages like ggplot, plotly, and D3.
 
 #### Intro to Statistics (DSAN 5100) Final Project
 [Link to Deliverable](https://powellres.github.io/DSAN5100-Final-Project-Powell/report/report.html) | [Github](https://github.com/powellres/DSAN5100-Final-Project-Powell) | December 2023
 
+Skills: R, Data Visualization, Regression, Anova, and Predictive Analysis
+
 Summary: For this final project I worked alone to analyze a dataset of nobel prize winners for differences in gender over time and across the different categories. The analysis for this project was more baseline and mostly involved proving statistical independence and differences to support the thesis of my research.
 
 #### DSAN 5000 Final 
 [Link to Deliverable](https://powellres.github.io/DSAN5000-final-project-Powell/) | [Github](https://github.com/powellres/DSAN5000-final-project-Powell) | December 2023
+
+Skills: R, Python, Clustering, Naive Bayes, Dimensionality Reduction, Decision trees, API querying, Data Visualization, Data Cleaning, and Exploratory Data Analysis
 
 Summary: For this project, we were asked to pick a dataset and apply a variety of machine learning methods. I chose a public knitting database on which I cleaned the data;performed exploratory data analysis; used analysis techniques like Naive Bayes Predictive modeling, Clustering, Dimensionality Reduction, and Decision trees/Random forests; and concluded the results all while documenting my code.
 
