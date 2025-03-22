@@ -18,14 +18,14 @@ Summary: In this article oublished in Regional Science Policy and Practice we di
 #### Big Data (DSAN 6000) Final Project
 [Link to Deliverable](https://gu-dsan6000.github.io/fall-2024-project-team-29/) | [Github](https://github.com/gu-dsan6000/fall-2024-project-team-29) | December 2024
 
-Skills: Python, SQL, Spark, SparkSQL, SparkNLP, Spark ML, AWS, Azure, Data Cleaning, Data Wrangling, and Data Visualization
+Skills: Python, SQL, Spark, SparkSQL, SparkNLP, Spark ML, AWS, Azure, Git, Data Cleaning, Data Wrangling, and Data Visualization
 
 Summary: We created a website that had exploratory data analysis, natural language processing, and machine learning aspects all applied to a 100 GB dataset of reddit data. For this project I specifically found a subset of the data where US States were mentioned, created visualizations of this dataset, found the sentiment associated with each state, and created a machine learning model to predict the score of the post based on all the variables.
 
 #### Natural Language Processing (DSAN 5800) Final Project
 [Link to Deliverable](https://docs.google.com/presentation/d/1GzWrOpMp3qInxHbbkDERY1NzALd6HCGF4lNTFvmB8g8/edit?usp=sharing) | [Github](https://github.com/msheeba4848/Framework-Insight-Retrieval-and-Summarization-) | December 2024
 
-Skills: Python, Huggingface, and Data Wrangling
+Skills: Python, Huggingface, Git, and Data Wrangling
 
 Summary: For this project we created a presentation and report (which is in the github) on the use of various retrieval augmented generation (RAG) methods which had the goal of finding cases relevant to a search. Large Language models normally have a problem with hallucinating results and RAG is a method to sidestep that issue.
 
@@ -48,7 +48,7 @@ Summary: When entering the second year of my two year program they gave the stud
 #### Nueral Networks (DSAN 6600) Final Project
 [Link to Deliverable]() | [Github]() | May 2024
 
-Skills: Python, Tensorflow, Pytorch, Convolutional and Artifical Nerual Networks, Pandas, and Data Wrangling
+Skills: Python, Tensorflow, Pytorch, Convolutional and Artifical Nerual Networks, Git, Pandas, and Data Wrangling
 
 Summary: For this group project we took a dataset of item from Amazon (found on Kaggle) which had price and an image of the product. We fit a convolutional neural network to the images in order to predict the price of the product itself. In this process we transformed and permutated the original images to better train the model. We were midly successful with interesting results that the model tended to look at logos or other branding for information about price.
 
@@ -64,7 +64,7 @@ Summary: On this group project we applied out knowledge of various advance stati
 #### Data Visualization (DSAN 5200) Final Project
 [Link to Deliverable]() | [Github](https://github.com/gu-dsan5200/spring-2024-dsan-5200-project-repo-project-group-13-1) | May 2024
 
-Skills: Python, R, Data Visualization, Data Cleaning, D3
+Skills: Python, R, Git, Data Visualization, Data Cleaning, D3
 
 Summary: Using crime statistics from 2018-2022, we visualized very aspects of the incidents reported as if they were featured in a clue game, as in if a crime happened to you in DC what was your relation to the perpetrator, where did it happen, and what weapon was used. Otherwise we used interactive and linked visualizations using packages like ggplot, plotly, and D3.
 
