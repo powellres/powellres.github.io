@@ -6,11 +6,11 @@ title: "Powell R. Sheagren"
 
 ::: {.column width="60%"}
 
-Hello and welcome to my website. I am currently a second year Masters student in the Graduate School of Arts and Sciences at Georgetown University, studying data science and analytics. I was formerly a undergraduate at Swarthmore college studying political science and statistics.
+Hello and welcome to my website. I recent Masters graduate Graduate School of Arts and Sciences at Georgetown University, studying data science and analytics. I was formerly a undergraduate at Swarthmore college studying political science and statistics.
 
 I'm pursuing a career in the intersection of advanced data analytics and politics, bringing technical abilities to policy and progress. To this extent I have an ongoing relationship with Bluebonnet Data where volunteered as a data scientist and then was brought onto the team to help manage other volunteers during the 2024 election cycle. I am excited to continue working in the progressive tech space and hope to bring my experience with a variety of organizations forward. 
 
-Outside of that career, I'm a avid knitter, reader, and movie buff. I've taken up writing in the new year and hope to continue with personal coding projects on the side mostly realted to knitting.
+Outside of that career, I'm a avid knitter, reader, and movie buff. I've taken up writing in the new year and hope to continue with personal coding projects on the side mostly related to knitting.
 
 :::
 
